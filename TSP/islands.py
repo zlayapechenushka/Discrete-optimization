@@ -16,4 +16,4 @@ def reading_txt(path):
 
     for i in range(len(islands)):
         islands[i] = np.array(islands[i])
-    islands = np.array(islands)
+    return n, p, k, M, np.array(islands)
