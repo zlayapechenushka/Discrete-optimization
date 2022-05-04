@@ -2,7 +2,7 @@ import numpy as np
 
 
 def road_cost(island_1, island_2, p):
-    distance = np.sqrt(np.sum((island_1[:2]- island_2[:2])**2))
+    distance = np.sqrt(np.sum((island_1[:2] - island_2[:2])**2))
     return distance*p
 
 
