@@ -1,2 +1,2 @@
 # Discrete-optimization
-MIPT [Dainiak](https://www.dainiak.com/) course, S flow
+MIPT [Dainiak](https://www.dainiak.com/) course hometasks, S flow
